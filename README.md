@@ -1,6 +1,7 @@
 # 🚨 Crime Rate Dashboard — Excel Data Analytics Project
 
-"C:\Users\User1\OneDrive\Pictures\Screenshots\Screenshot 2026-05-04 121733.png"
+<img width="1188" height="507" alt="Screenshot 2026-05-04 121733" src="https://github.com/user-attachments/assets/ee059a1b-0285-41e2-a918-4f8eebb60d56" />
+
 
 ## 📌 Project Overview
 
