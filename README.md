@@ -1,6 +1,6 @@
 # 🚨 Crime Rate Dashboard — Excel Data Analytics Project
 
-![Dashboard Preview](dashboard_screenshot.png)
+"C:\Users\User1\OneDrive\Pictures\Screenshots\Screenshot 2026-05-04 121733.png"
 
 ## 📌 Project Overview
 
@@ -67,12 +67,5 @@ crime-rate-dashboard-excel/
 📧 [nafisrami2005@gmail.com]
 🔗 [[LinkedIn Profile URL](https://www.linkedin.com/in/khandakerrami9a7175349?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
 
----
 
-## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-> *"Data tells the story — the dashboard makes it visible."*
